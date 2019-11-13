@@ -1,0 +1,21 @@
+
+body {
+    font-size: 14px;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    margin: 20px;
+    padding: 0;
+    background: white url(http://www.htmldog.com/images/bg.gif) no-repeat top right;
+}
+
+/*
+#logo-default {
+    background-image: url("googles-new-logo.gif");
+    background-repeat: no-repeat;
+    bottom: var(--logo-margin-bottom);
+    height: 92px;
+    left: calc(50% - 272px/2);
+    position: absolute;
+    width: 272px;
+*/
